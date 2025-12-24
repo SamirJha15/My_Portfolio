@@ -83,7 +83,7 @@ const Portfolio = () => {
               <div className="relative">
                 <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-blue-600 shadow-2xl bg-gray-800">
                   <img 
-                    src="/profile.jpeg"
+                    src="https://i.ibb.co/SX0LQdfS/profile.jpg"
                     alt="Samir Saurabh"
                     className="w-full h-full object-cover"
                     onError={(e) => {
